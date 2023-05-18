@@ -8,19 +8,12 @@
 <br>
 
 <details> 
- <summary> <h3> 🔰 Some of my projects </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+ <summary> <h3>Some of my projects </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
   <br/>
 
   <p align="left">
-  <a href="https://github.com/The-Young-Programmer/Math-Quize">
+  <a href="https://github.com/KysawaJR/Kunzita">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KysawaJR&repo=Math-Quize&theme=react&bg_color=0D1117" alt="Math-Quize"></a>
-  <a href="https://github.com/The-Young-Programmer/Hangman-Game">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KysawaJR&repo=Hangman-Game&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
-  <a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KysawaJR&repo=C-CPP-Programming&theme=react&bg_color=0D1117" alt="C/C++"></a>
-  <a href="https://github.com/The-Young-Programmer/QBasic">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KysawaJR&repo=QBasic&theme=react&bg_color=0D1117" alt="QBasic"></a>
-  
   </p>
 
  <p align="left">
@@ -44,7 +37,7 @@
  
  <div align="center">
 <a href="http://www.github.com/KysawaJR"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=KysawaJR&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="KysawaJR GitHub stats"/></a>
-<a href="http://www.github.com/KysawaJR"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KysawaJR&langs_count=1&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a href="http://www.github.com/KysawaJR"><img alt="TYP Top Language" width="38.25%" height="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KysawaJR&langs_count=1&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 <a href="http://www.github.com/KysawaJR"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KysawaJR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
 </div>
 
