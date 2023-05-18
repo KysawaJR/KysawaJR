@@ -14,5 +14,5 @@
 
 <div style="display: flex; flex-direction: row;" align="center">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=KysawaJR&theme=default&show_icons=true">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KysawaJR&hide=html&layout=compact=true&theme=default">
+    <img width=300 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KysawaJR&hide=html&layout=compact=true&theme=default">
 </div>
