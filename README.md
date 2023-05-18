@@ -18,7 +18,7 @@
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KysawaJR&repo=Kunzita&theme=react&bg_color=0D1117" alt="Kunzita"></a>
   </p>
 
- <p align="left">
+ <p align="center">
   <a href="https://github.com/KysawaJR?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 </details>
