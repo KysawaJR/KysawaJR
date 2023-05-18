@@ -1,8 +1,10 @@
 <img width=100% alt="Head" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling"/>
+
 <h3 align="center">My Social Networks</h3>
+
 <div align="center">
-    <a href="#" alt="Linkedin" target="_blank">
-        <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kysawa-junior/">
+    <a href="https://www.linkedin.com/in/kysawa-junior/" alt="Linkedin" target="_blank">
+        <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
     </a>
 </div>
 <br>
