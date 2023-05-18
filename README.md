@@ -12,7 +12,43 @@
 </div>
 <br>
 
-<div style="display: flex; flex-direction: row;" align="center">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=KysawaJR&theme=default&show_icons=true">
-    <img width=340 height=260 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KysawaJR&hide=html&layout=compact=true&theme=default">
+<details> 
+ <summary> <h3> 🔰 Some of my projects </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+  <br/>
+
+  <p align="left">
+  <a href="https://github.com/The-Young-Programmer/Math-Quize">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Math-Quize&theme=react&bg_color=0D1117" alt="Math-Quize"></a>
+  <a href="https://github.com/The-Young-Programmer/Hangman-Game">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Hangman-Game&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
+  <a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=C-CPP-Programming&theme=react&bg_color=0D1117" alt="C/C++"></a>
+  <a href="https://github.com/The-Young-Programmer/QBasic">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=QBasic&theme=react&bg_color=0D1117" alt="QBasic"></a>
+  
+  </p>
+
+ <p align="left">
+  <a href="https://github.com/The-Young-Programmer?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+</details>
+
+<!-- ###### END OF Some of my projects  ##### -->
+
+
+
+<!-- ###### My Github Stats  ##### -->
+
+<h4 align="center">
+<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+</h4>
+  
+  
+ <!--<h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>-->
+
+ 
+ <div align="center">
+<a href="http://www.github.com/The-Young-Programmer"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=The-Young-Programmer&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats"/></a>
+<a href="http://www.github.com/The-Young-Programmer"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Young-Programmer&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a href="http://www.github.com/The-Young-Programmer"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Young-Programmer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
 </div>
