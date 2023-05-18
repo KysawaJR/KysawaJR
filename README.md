@@ -36,9 +36,24 @@
 
  
  <div align="center">
-<a href="http://www.github.com/KysawaJR"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=KysawaJR&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="KysawaJR GitHub stats"/></a>
-<a href="http://www.github.com/KysawaJR"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KysawaJR&langs_count=1&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-<a href="http://www.github.com/KysawaJR"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KysawaJR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+<a href="http://www.github.com/KysawaJR">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" width="60%" srcset="https://github-readme-stats.vercel.app/api?username=KysawaJR&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="KysawaJR GitHub stats">
+        <source media="(prefers-color-scheme: light)" width="60%" srcset="https://github-readme-stats.vercel.app/api?username=KysawaJR&hide=&count_private=true&bg_color=ffffff&theme=default&hide_border=true&show_icons=true" alt="KysawaJR GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=KysawaJR&hide=&count_private=true&bg_color=ffffff&theme=default&hide_border=true&show_icons=true" alt="KysawaJR GitHub stats">
+    </picture>
+<a href="http://www.github.com/KysawaJR">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" align="top" width="38.25%" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KysawaJR&langs_count=1&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
+        <source media="(prefers-color-scheme: light)" align="top" width="38.25%" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KysawaJR&langs_count=1&count_private=true&layout=compact&theme=default&hide_border=true&bg_color=ffffff">
+        <img align="top" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KysawaJR&langs_count=1&count_private=true&layout=compact&theme=default&hide_border=true&bg_color=ffffff">
+    </picture>
+<a href="http://www.github.com/KysawaJR">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" align="top" width="100%" srcset="https://github-readme-streak-stats.herokuapp.com/?user=KysawaJR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+        <source media="(prefers-color-scheme: light)" align="top" width="100%" srcset="https://github-readme-streak-stats.herokuapp.com/?user=KysawaJR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=ffffff">
+        <img align="top" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KysawaJR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=ffffff">
+    </picture>
 </div>
 
 <img width=100% alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
