@@ -12,6 +12,7 @@
 </div>
 <br>
 
-[![card](https://github-readme-stats.vercel.app/api?username=KysawaJR&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=KysawaJR&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=KysawaJR&theme=default&show_icons=true">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KysawaJR&hide=html&layout=compact=true&theme=default">
+</div>
