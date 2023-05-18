@@ -55,5 +55,10 @@
         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KysawaJR&show_icons=true&count_private=true&theme=default&hide_border=false&bg_color=ffffff">
     </picture>
 </div>
+<br>
+<h3 align="center">🤝 Support me!</h3>
+<p align="center">
+    <a href="https://www.buymeacoffee.com/KysawaJunior"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
+</p>
 
 <img width=100% alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
