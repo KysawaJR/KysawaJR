@@ -51,8 +51,8 @@
 <a href="http://www.github.com/KysawaJR">
     <picture>
         <source media="(prefers-color-scheme: dark)" align="top" width="100%" srcset="https://github-readme-streak-stats.herokuapp.com/?user=KysawaJR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
-        <source media="(prefers-color-scheme: light)" align="top" width="100%" srcset="https://github-readme-streak-stats.herokuapp.com/?user=KysawaJR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=ffffff">
-        <img align="top" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KysawaJR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=ffffff">
+        <source media="(prefers-color-scheme: light)" align="top" width="100%" srcset="https://github-readme-streak-stats.herokuapp.com/?user=KysawaJR&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=ffffff">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KysawaJR&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=ffffff">
     </picture>
 </div>
 
