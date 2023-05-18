@@ -15,7 +15,7 @@
 
   <p align="left">
   <a href="https://github.com/KysawaJR/Kunzita">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KysawaJR&repo=Math-Quize&theme=react&bg_color=0D1117" alt="Math-Quize"></a>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KysawaJR&repo=Kunzita&theme=react&bg_color=0D1117" alt="Kunzita"></a>
   </p>
 
  <p align="left">
