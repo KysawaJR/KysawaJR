@@ -1,7 +1,4 @@
-<img width=100% alt="Head" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi!&fontSize=40&fontAlignY=40&animation=twinkling"/>
-
-<h3 align="center">About me</h3>
-<p align="center">Hi! I'm Kysawa Júnior...</p>
+<img width=100% alt="Head" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=About%20me&fontSize=40&fontAlignY=40&animation=twinkling"/>
 
 <br>
 <h3 align="center">My Social Networks</h3>
