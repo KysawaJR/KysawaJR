@@ -1,5 +1,5 @@
 <img width=100% alt="Head" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling"/>
-
+<h3 align="center">My Social Networks</h3>
 <div align="center">
     <a href="#" alt="Linkedin" target="_blank">
         <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kysawa-junior/">
@@ -8,7 +8,7 @@
 <br>
 
 <details> 
- <summary> <h3>Some of my projects </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+ <summary align="center"> <h3>Some of my projects </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
   <br/>
 
   <p align="left">
