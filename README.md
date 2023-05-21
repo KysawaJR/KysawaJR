@@ -1,6 +1,6 @@
 <img width=100% alt="Head" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling"/>
 
-<h3 align="center">About me</h3>
+<h2 align="center">About me</h2>
 
 <div align="center">
     My name is Kysawa Júnior, I'm 18 years old, and I'm passionate about Japanese culture. One day, I hope to visit Japan!<br>
