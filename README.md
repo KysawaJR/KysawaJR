@@ -8,8 +8,6 @@
     dedicating some of my time to developing projects and libraries to help the community grow. ________________________
 </div>
 <br>
-<h3 align="center">My Social Networks</h3>
-
 <div align="center">
     <a href="https://www.linkedin.com/in/kysawa-junior/" alt="Linkedin" target="_blank">
         <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
