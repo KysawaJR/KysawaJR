@@ -2,11 +2,9 @@
 
 <h2 align="center">About me</h2>
 
-<div align="center">
-    My name is Kysawa Júnior, I'm 18 years old, and I'm passionate about Japanese culture. One day, I hope to visit Japan!<br>
-    I started my career as a Fullstack Developer and fell in love with Kotlin. The community is still small, but I've been _____<br>  
-    dedicating some of my time to developing projects and libraries to help the community grow. ________________________
-</div>
+My name is Kysawa Júnior, I'm 18 years old, and I'm passionate about Japanese culture. One day, I hope to visit Japan!
+I started my career as a Fullstack Developer and fell in love with Kotlin. The community is still small, but I've been
+dedicating some of my time to developing projects and libraries to help the community grow.
 <br>
 <div align="center">
     <a href="https://www.linkedin.com/in/kysawa-junior/" alt="Linkedin" target="_blank">
