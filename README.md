@@ -1,14 +1,12 @@
 <img width=100% alt="Head" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling"/>
 
-<h2 align="center">About me</h2>
-
-My name is Kysawa Júnior, I'm 18 years old, and I'm passionate about Japanese culture. One day, I hope to visit Japan!
-I started my career as a Fullstack Developer and fell in love with Kotlin. The community is still small, but I've been
-dedicating some of my time to developing projects and libraries to help the community grow.
-<br>
+<h3 align="center">My Social Networks</h3>
 <div align="center">
     <a href="https://www.linkedin.com/in/kysawa-junior/" alt="Linkedin" target="_blank">
-        <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
+        <img width=35 height=35 src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg">
+    </a>
+    <a href="https://www.linkedin.com/in/kysawa-junior/" alt="Linkedin" target="_blank">
+        <img width=35 height=35 src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg">
     </a>
 </div>
 <br>
