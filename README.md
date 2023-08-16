@@ -18,6 +18,9 @@
   <p align="left">
   <a href="https://github.com/KysawaJR/Kunzita">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KysawaJR&repo=Kunzita&theme=react&bg_color=0D1117" alt="Kunzita"></a>
+
+  <a href="https://github.com/KysawaJR/Vitality">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KysawaJR&repo=Vitality&theme=react&bg_color=0D1117" alt="Vitality"></a>
   </p>
 
  <p align="center">
